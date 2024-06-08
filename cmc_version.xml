@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Cân Lúa 2022</title>
+        <title>CMC Dispatch</title>
         <item>
-            <title>Version 1.0.7</title>
-            <description>Sửa lỗi hiển thị thông tin.</description>
+            <title>Version 1.0.5</title>
+            <description>- Fix notifications.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=vn.ricescale.mobile" sparkle:version="1.0.7" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps" sparkle:version="1.0.5" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.0.7</title>
-            <description>Sửa lỗi hiển thị thông tin.</description>
+            <title>Version 1.0.5</title>
+            <description>- Fix notifications</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/c%C3%A2n-l%C3%BAa-2022/id1633177778" sparkle:version="1.0.5" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/cmc-dispatch/id6502574863" sparkle:version="1.0.5" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
