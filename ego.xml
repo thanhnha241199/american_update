@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>For unit test only</title>
+        <title>eGo</title>
         <item>
-            <title>Version 4.0.0</title>
+            <title>Version 1.0.13</title>
             <enclosure url="http://localhost:1337/Sparkle_Test_App.zip"
                        sparkle:version="4.0" sparkle:os="iOS"/>
-            <sparkle:version>4.0.0</sparkle:version>
-            <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
+            <sparkle:version>1.0.13</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
         </item>
         <item>
-            <title>Version 3.0.0</title>
+            <title>Version 1.0.13</title>
             <enclosure url="http://localhost:1337/Sparkle_Test_App.zip"
                        sparkle:version="3.0" sparkle:os="android"/>
-            <sparkle:version>3.0.0</sparkle:version>
-            <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
+            <sparkle:version>1.0.13</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
         </item>
         <!-- A release testing minimumSystemVersion -->
         <item>
-            <title>Version 4.0</title>
+            <title>Version 1.0.13</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
             <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="iOS" />
