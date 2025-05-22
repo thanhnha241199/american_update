@@ -3,16 +3,16 @@
     <channel>
         <title>WealthWaveONE</title>
         <item>
-            <title>Version 1.0.6</title>
+            <title>Version 1.0.7</title>
             <description>- Update podcast.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.wealthwave.wwoneapp" sparkle:version="1.0.6" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.wealthwave.wwoneapp" sparkle:version="1.0.7" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.0.6</title>
+            <title>Version 1.0.7 title>
             <description>- Update podcast</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/wealthwaveone/id6740793519" sparkle:version="1.0.6" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/wealthwaveone/id6740793519" sparkle:version="1.0.7" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
