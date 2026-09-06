@@ -3,16 +3,16 @@
     <channel>
         <title>COCO Driver</title>
         <item>
-            <title>Version 1.0.10</title>
-            <description>- Sửa lỗi và cải thiện hiệu năng - Cập nhật để có trải nghiệm tốt nhất</description>
+            <title>Version 1.0.9</title>
+            <description>- Sửa lỗi và cải thiện hiệu năng\n- Cập nhật để có trải nghiệm tốt nhất</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=global.ecorp.coco.driver" sparkle:version="1.0.10" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=global.ecorp.coco.driver" sparkle:version="1.0.9" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.0.10</title>
-            <description>- Sửa lỗi và cải thiện hiệu năng - Cập nhật để có trải nghiệm tốt nhất</description>
+            <title>Version 1.0.9</title>
+            <description>- Sửa lỗi và cải thiện hiệu năng\n- Cập nhật để có trải nghiệm tốt nhất</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/coco-b%C3%A1c-t%C3%A0i/id67931820439" sparkle:version="1.0.10" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/us/app/coco-b%C3%A1c-t%C3%A0i/id67931820439" sparkle:version="1.0.9" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
