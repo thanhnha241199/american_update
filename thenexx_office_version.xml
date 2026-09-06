@@ -1,0 +1,17 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>eGo</title>
+<item>
+<title>1.3.2</title>
+<description>- Sửa lỗi và cải thiện hiệu năng - Cập nhật để có trải nghiệm tốt nhất</description>
+<pubDate>Wed, 04 Feb 2026 12:00:00 +000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=app.thenexx.vn" sparkle:version="1.3.2" sparkle:os="android"/>
+</item>
+<item>
+<title>1.3.2</title>
+<description>- Sửa lỗi và cải thiện hiệu năng - Cập nhật để có trải nghiệm tốt nhất</description>
+<pubDate>Wed, 04 Feb 2026 12:00:00 +000</pubDate>
+<enclosure url="https://apps.apple.com/vn/app/the-nexx-office/id6757837550?l=vi" sparkle:version="1.3.2" sparkle:os="ios"/>
+</item>
+</channel>
+</rss>
